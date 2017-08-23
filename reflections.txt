@@ -1,0 +1,1 @@
+this is a file to go through understanding of git
