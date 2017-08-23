@@ -1,0 +1,1 @@
+git will create a empty .git directory containing metadata about the repository
